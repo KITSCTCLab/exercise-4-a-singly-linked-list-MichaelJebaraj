@@ -5,7 +5,7 @@ class Node:
     """
     Provide necessary documentation
     """
-    def _init_(self, data=None, next=None):
+    def _init_(self, data=None, next=None): 
         """
         Provide necessary documentation
         """
